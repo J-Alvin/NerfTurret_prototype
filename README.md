@@ -1,7 +1,7 @@
 # NerfTurret_prototype
 Contains various versions of "Main" for an Automatic Nerf Turret.
 
-Stud code is used for interfaces to hardware, no actual code is provided for hardware. These versions only deal with the complex logic and code flow associated with finding a target, determining position and distance, adjusting trajectory, and then firing. Originally, the hardware interfaces were going to be added in a at later date, but subsequent redesigns and hardware problems neccessitated a redesign.
+Stud code is used for interfaces to hardware, very little to no code is provided for hardware. These versions only deal with the complex logic and code flow associated with finding a target, determining position and distance, adjusting trajectory, and then firing. Originally, the hardware interfaces were going to be added in a at later date, but subsequent redesigns and hardware problems neccessitated a redesign.
 
 The orginal hardware design was to include
 1. horizontal and vertical motors for barrel movement
