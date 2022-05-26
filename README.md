@@ -17,3 +17,5 @@ The main code flow proceded as follows:
 6. Move turret vertically
 7. Fire
 8. Repeat 
+
+These code files were later discarded because of hardware limitations and problems. A simple design was used for a "Semi-Automatic" version using face-detection off-loaded to a laptop and using multiple arduinos. See the repository DallinPoole66/NerfTurret
